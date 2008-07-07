@@ -1,0 +1,9 @@
+<config>
+    <modules>
+        <OrganicInternet_WysiwygEditor>
+            <active>true</active>
+            <codePool>community</codePool>
+            <version>0.0.1</version>
+        </OrganicInternet_WysiwygEditor>
+    </modules>
+</config>

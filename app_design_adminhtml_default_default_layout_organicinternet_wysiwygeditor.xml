@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.0.1">
+    <default>
+        <reference name="head">
+            <action method="setTemplate"><template>organicinternet_wysiwygeditor/page_head.phtml</template></action>
+        </reference>
+    </default>
+</layout>
