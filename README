@@ -1,0 +1,12 @@
+Tiny MCE WYSIWYG editor module for Magento
+------------------------------------------
+
+Users install the module from Magento Connect
+
+Developers symlink the following files into your magento root directory:
+
+app_code_community_OrganicInternet_WysiwygEditor -> app/code/community/OrganicInternet/WysiwygEditor
+app_design_adminhtml_default_default_layout_organicinternet_wysiwygeditor.xml -> app/design/adminhtml/default/default/layout/organicinternet_wysiwygeditor.xml
+app_design_adminhtml_default_default_template_organicinternet_wysiwygeditor -> app/design/adminhtml/default/default/template/organicinternet_wysiwygeditor
+app_etc_modules_OrganicInternet_WysiwygEditor.xml -> app/etc/modules/OrganicInternet_WysiwygEditor.xml
+js_tiny_mce -> js/tiny_mce
